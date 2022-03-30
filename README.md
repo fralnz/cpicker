@@ -1,6 +1,6 @@
 # cpicker
 
-Minimal color picker for X11
+Minimal color picker script for X11
 
 
 
