@@ -1,0 +1,5 @@
+#!/bin/bash
+
+color=$(xcolor)
+notify-send "$color"
+echo $color | xclip -sel clip
