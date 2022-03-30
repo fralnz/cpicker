@@ -2,4 +2,4 @@
 
 color=$(xcolor)
 notify-send "$color"
-echo $color | xclip -sel clip
+echo -n $color | xclip -sel clip
