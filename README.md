@@ -14,6 +14,8 @@ Minimal color picker script for X11
 
 Arch install: `sudo pacman -S xclip xcolor`
 
+Void install: `sudo xbps-install -S xclip xcolor`
+
 
 
 ## Usage
